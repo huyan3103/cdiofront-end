@@ -1,0 +1,23 @@
+.signupee{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name-signupee{
+    display:  flex;
+}
+
+.image-signupee{
+    height: 150px;
+    width: 150px;
+}
+
+.image-signupee img{
+    height: 100%;
+    width: 100%;
+}
+
+.address1{
+    display: flex;
+}
