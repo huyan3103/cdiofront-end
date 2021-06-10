@@ -1,0 +1,50 @@
+.header{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.branch-name{
+    font-size: 30px;
+    margin-left: 3rem;
+}
+
+.header-item{
+    height: 50%;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.link{
+    margin-right: 10rem;
+}
+
+.link ul{
+    display: flex;
+    list-style: none;
+    align-content: center;
+    height: 100%;
+    align-items: center;
+}
+
+.link ul li {
+    margin: 0 25px;
+}
+
+.link ul li a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+}
+
+.header-item img {
+    height: 100%;
+    width: 60px;
+    cursor: pointer;
+}
+
