@@ -1,0 +1,12 @@
+.table-mainee{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+td:nth-child(5){
+    border: none;
+}
